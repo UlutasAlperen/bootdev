@@ -138,4 +138,4 @@ The CLI text output is rendered with extra colors: green (e.g., success messages
   bootdev config colors --reset
   ```
 
-aiupt's version of Boot.dev Notely app.""
+"aiupt's version of Boot.dev Notely app."
